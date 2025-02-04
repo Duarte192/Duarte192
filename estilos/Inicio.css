@@ -21,8 +21,8 @@ html {
 
 .flex {
   display: flex;
-  align-items: left;
-  text-align: left;
+  align-items: center;
+  text-align: center;
 }
 
 #header {
@@ -65,7 +65,7 @@ header ul li a {
 header a {
   text-decoration: none;
 }
-}
+
 
 .banner {
   height: 150vh;
@@ -96,7 +96,7 @@ h2 {
 
 /* Estilos do footer */
 footer {
-  background-image: url("/imagens/");
+  background-image: url("/imagens/17.png");
 }
 
   nav ul li {
@@ -121,6 +121,11 @@ button {
 button:hover {
   background: #45a049;
 }
+}
+
+}
+
+
 
 
 .conteine {
@@ -175,15 +180,6 @@ header a {
 }
 
 
-
-
-
-}
-
-
-
-
-
 .banner {
   height: 150vh;
   background-image: linear-gradient(to right,rgb(12, 68, 12),green);
@@ -225,7 +221,7 @@ h2 {
 
 /* Estilos do footer */
 footer {
-  background-image: url("/imagens/");
+  background-image: url("/imagens/17.png");
 }
 
 /* Responsividade */
