@@ -96,13 +96,7 @@ h2 {
 
 /* Estilos do footer */
 footer {
-  text-align: center;
-  padding: 10px 0;
-  background: #333;
-  color: white;
-  position: relative;
-  bottom: 0;
-  width: 100%;
+  background-image: url("/imagens/");
 }
 
   nav ul li {
@@ -179,7 +173,16 @@ header ul li a {
 header a {
   text-decoration: none;
 }
+
+
+
+
+
 }
+
+
+
+
 
 .banner {
   height: 150vh;
