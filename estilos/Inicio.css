@@ -21,9 +21,8 @@ html {
 
 .flex {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  text-align: center;
+  align-items: left;
+  text-align: left;
 }
 
 #header {
@@ -66,7 +65,7 @@ header ul li a {
 header a {
   text-decoration: none;
 }
-
+}
 
 .banner {
   height: 150vh;
@@ -128,7 +127,6 @@ button {
 button:hover {
   background: #45a049;
 }
-}
 
 
 .conteine {
@@ -181,7 +179,7 @@ header ul li a {
 header a {
   text-decoration: none;
 }
-
+}
 
 .banner {
   height: 150vh;
@@ -224,7 +222,7 @@ h2 {
 
 /* Estilos do footer */
 footer {
-  background-image: url("/imagens/17.png");
+  background-image: url("/imagens/");
 }
 
 /* Responsividade */
